@@ -31,7 +31,7 @@ I'm passionate about Artificial Intelligence and its development
 ![Kaggle_logo](https://user-images.githubusercontent.com/85439772/187181550-d3aec424-ce4a-49c4-934f-2630a889fbc6.png)
 ![1200px-Jupyter_logo svg](https://user-images.githubusercontent.com/85439772/187181916-d85c957b-db65-4897-a7a1-8fe9a34ec32b.png)
 ![1200px-Scikit_learn_logo_small svg](https://user-images.githubusercontent.com/85439772/187182126-1db6c909-5f94-49a3-b2e3-a81d23bbfeb5.png)
-
+https://github-readme-stats.vercel.app/api?username=Rochan-Raj&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
 
 
 
