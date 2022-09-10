@@ -30,7 +30,9 @@ I'm passionate about Artificial Intelligence and its development
 <img width="100" alt="cover-numpy" src="https://user-images.githubusercontent.com/85439772/187180412-da01e198-8a29-4efd-a384-4a2e6e24c160.png">
 ![Kaggle_logo](https://user-images.githubusercontent.com/85439772/187181550-d3aec424-ce4a-49c4-934f-2630a889fbc6.png)
 ![1200px-Jupyter_logo svg](https://user-images.githubusercontent.com/85439772/187181916-d85c957b-db65-4897-a7a1-8fe9a34ec32b.png)
-![1200px-Scikit_learn_logo_small svg](https://user-images.githubusercontent.com/85439772/187182126-1db6c909-5f94-49a3-b2e3-a81d23bbfeb5.png)
+![1200p![68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f39362f3030303030302f6f70656e63762e706e67](https://user-images.githubusercontent.com/85439772/189475316-e0ba8097-9619-4672-8144-5125e6c4f48d.png)
+x-Scik![68747470733a2f2f696d672e69636f6e73382e636f6d2f6d6174657269616c2d6f75746c696e65642f39362f6666666666662f6769746875622e706e67](https://user-images.githubusercontent.com/85439772/189475356-f79a3199-a3c8-498a-a5d0-d259cbefb7a4.png)
+it_learn_logo_small svg](https://user-images.githubusercontent.com/85439772/187182126-1db6c909-5f94-49a3-b2e3-a81d23bbfeb5.png)
 
 ## 📈 My Github Stats
 
