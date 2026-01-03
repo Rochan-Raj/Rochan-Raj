@@ -15,7 +15,7 @@ I'm passionate about Artificial Intelligence and its development
 
 - 📚 I love to read about futuristic technologies and how AI can help to prosper humanity.
 
-- 📫 Contact me at my:GMAIL-[rochanraviraj@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox), Instagram-[@rochanraviraj_official](https://www.instagram.com/rochanraviraj_official/)
+- 📫 Contact me at my:GMAIL-[rochanraviraj@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox), Instagram-[@sigma__grindset__](https://www.instagram.com/rochanraviraj_official/)
 
 ## 💻 Languages and Tools:
 
